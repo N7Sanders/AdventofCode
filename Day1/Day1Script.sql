@@ -1,4 +1,4 @@
---Day1
+--Day1A
 DROP TABLE IF EXISTS #Day1
 
 CREATE TABLE #Day1 (Day1 INT)
